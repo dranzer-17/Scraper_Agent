@@ -21,8 +21,7 @@ A simple, reliable web scraper built with Streamlit that uses Google's free Gemi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-web-scraper.git
-cd ai-web-scraper
+git clone https://github.com/dranzer-17/Scraper_Agent.git
 ```
 
 ### 2. Install Dependencies
