@@ -249,7 +249,7 @@ with st.expander("❌ Common Issues and Solutions"):
     - Try adding 'https://' if missing
     
     **"Gemini API error":**
-    - Verify your API key is correct
+    - Verify your Gemini API key is correct
     - Check if you have API quota remaining
     - Make sure the key has proper permissions
     
