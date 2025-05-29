@@ -131,8 +131,8 @@ Contributions are welcome! Here are some ways you can help:
 ### Development Setup
 ```bash
 # Fork the repository and clone your fork
-git clone https://github.com/yourusername/ai-web-scraper.git
-cd ai-web-scraper
+git clone https://github.com/yourusername/Scraper_Agent.git
+cd Scraper_Agent
 
 # Create a virtual environment
 python -m venv venv
