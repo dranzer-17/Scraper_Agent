@@ -131,7 +131,7 @@ Contributions are welcome! Here are some ways you can help:
 ### Development Setup
 ```bash
 # Fork the repository and clone your fork
-git clone https://github.com/yourusername/Scraper_Agent.git
+git clone https://github.com/dranzer-17/Scraper_Agent.git
 cd Scraper_Agent
 
 # Create a virtual environment

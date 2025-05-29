@@ -107,7 +107,8 @@ EXTRACTION REQUEST: {user_prompt}
 WEBPAGE CONTENT:
 {content_to_analyze}
 
-Please provide a clear, structured response with the requested information. If the information is not available, please state that clearly.
+Please provide a clear, structured response with the requested information. 
+If the information is not available, please state that clearly.
 """
         
         # Generate response
@@ -266,7 +267,7 @@ with st.expander("❌ Common Issues and Solutions"):
 # Status indicators
 st.markdown("---")
 if default_api_key:
-    st.success("✅ API key loaded from .env file")
+    st.success("✅ API key successfully loaded from .env file")
 else:
     st.info("💡 Enter your API key above or create a .env file")
 
